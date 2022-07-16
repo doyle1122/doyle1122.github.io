@@ -1,9 +1,9 @@
-import { useStyleTag } from "/Users/chuxinmacbook4/work/docs/yyy/node_modules/vuepress-plugin-components/lib/client/composables";
+import { useStyleTag } from "/Users/chuxinmacbook4/work/docs/myblog/node_modules/vuepress-plugin-components/lib/client/composables";
 import { h } from "vue";
 import { defineClientConfig } from "@vuepress/client";
-import Badge from "/Users/chuxinmacbook4/work/docs/yyy/node_modules/vuepress-plugin-components/lib/client/components/Badge";
-import FontIcon from "/Users/chuxinmacbook4/work/docs/yyy/node_modules/vuepress-plugin-components/lib/client/components/FontIcon";
-import BackToTop from "/Users/chuxinmacbook4/work/docs/yyy/node_modules/vuepress-plugin-components/lib/client/components/BackToTop";
+import Badge from "/Users/chuxinmacbook4/work/docs/myblog/node_modules/vuepress-plugin-components/lib/client/components/Badge";
+import FontIcon from "/Users/chuxinmacbook4/work/docs/myblog/node_modules/vuepress-plugin-components/lib/client/components/FontIcon";
+import BackToTop from "/Users/chuxinmacbook4/work/docs/myblog/node_modules/vuepress-plugin-components/lib/client/components/BackToTop";
 
 
 export default defineClientConfig({
